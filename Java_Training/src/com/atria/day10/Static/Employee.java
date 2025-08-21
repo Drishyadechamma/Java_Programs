@@ -1,4 +1,4 @@
-package com.atria.day10.Static;
+package com.atria.day10.Static;// static keyword is used for memory management 
 
 public class Employee {
 	
